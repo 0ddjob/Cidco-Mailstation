@@ -5,7 +5,7 @@ It has a Z80??<br>
 W.I.P.Z. ... ?<br>
 (Will It Play Zork?)<br>
 
-Apparently YES!<br>
+Apparently [YES!](https://www.fybertech.net/mailstation/images.php)<br>
 
 Unfortunately it seems there is not much active interest or development on the MailStation ... ?<br>
 

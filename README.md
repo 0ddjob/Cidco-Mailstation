@@ -1,5 +1,6 @@
 # Cidco MailStation
-The MailStation is a Z80 based device from the 20th Century used primarily for email using the POTS (PSTN diallup).<br>
+The MailStation is a Z80 based device from the 20th Century used primarily for email using the POTS (PSTN dial up).<br>
+
 It has a Z80??<br>
 
 W.I.P.Z. ... ?<br>
